@@ -1,5 +1,9 @@
 ---
+layout: page
 title: About
-layout: default
+permalink: /about/
 ---
-Learn more about the author and the mission behind The Pet Eye Guide.
+
+# About The Pet Eye Guide
+
+This book and site aim to help pet owners recognize and respond to eye problems early.
