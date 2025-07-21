@@ -1,4 +1,7 @@
 title: The Pet Eye Guide
-baseurl: ""
-url: "https://thepeteyeguide.com"
 theme: minima
+
+header_pages:
+  - index.md
+  - pages/about.md
+  - pages/products.md
