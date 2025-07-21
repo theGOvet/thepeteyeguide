@@ -1,5 +1,9 @@
 ---
-title: Recommended Products
-layout: default
+layout: page
+title: Products
+permalink: /products/
 ---
-Links to products we trust for pet eye care.
+
+# Recommended Products
+
+These links may include affiliate referrals that support this site.
