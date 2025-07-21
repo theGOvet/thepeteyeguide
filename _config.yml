@@ -1,9 +1,14 @@
-title: The Pet Eye Guide
+title: My Simple Site
+description: A clean Jekyll starter
 theme: minima
+url: "https://yoursite.com" # Update with your domain
 
+# Navigation
 header_pages:
   - index.md
-  - pages/about.md
-  - pages/products.md
-  - pages/book.md
-  - pages/guide-links.md
+  - blog.md
+  - contact.md
+
+# Minima theme settings
+minima:
+  skin: auto # light/dark mode
