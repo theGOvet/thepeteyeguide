@@ -1,3 +1,14 @@
-# Welcome to The Pet Eye Guide
+---
+layout: home
+title: Home
+---
 
-Learn to care for your pet’s eyes with confidence.
+# Welcome to My Site
+
+This is a simple starter template with:
+
+- Clean responsive design
+- Light/dark mode
+- Basic pages
+
+[Check out my blog](/blog)
