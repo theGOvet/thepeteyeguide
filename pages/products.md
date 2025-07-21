@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Products
-permalink: /products/
+permalink: pages/products
 ---
 
 # Recommended Products
