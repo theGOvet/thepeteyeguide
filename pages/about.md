@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /about/
+permalink: pages/about
 ---
 
 # About The Pet Eye Guide
