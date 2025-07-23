@@ -12,3 +12,4 @@ header_pages:
 # Minima theme settings
 minima:
   skin: auto # light/dark mode
+  include_assets: true
