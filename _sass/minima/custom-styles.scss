@@ -1,3 +1,33 @@
+/* Gradient for main content only */
+.main-content {
+  background: linear-gradient(
+    to bottom, 
+    #ffecb3 0%,    // Dark yellow (top)
+    #ffffff 100%   // White (bottom)
+  );
+  min-height: 80vh; /* Ensures gradient covers most pages */
+  
+  /* Dark mode support */
+  @media (prefers-color-scheme: dark) {
+    background: linear-gradient(
+      to bottom,
+      #665200 0%,   // Darker gold
+      #1a1a1a 100%   // Near-black
+    );
+  }
+}
+
+/* Explicitly keep footer white */
+.site-footer {
+  background: white;
+  
+  @media (prefers-color-scheme: dark) {
+    background: #1a1a1a; /* Dark footer */
+    border-top: 1px solid #332900; /* Subtle top border */
+  }
+}
+
+/* FOOTER CSS */
 /* Book Promo Banner */
 .book-promo {
   background: linear-gradient(135deg, #f8f4e8 0%, #fff9f0 100%);
