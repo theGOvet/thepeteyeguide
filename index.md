@@ -1,9 +1,7 @@
 ---
 layout: home
-title: Home
+title: The Pet Eye Guide
 ---
-
-# The Pet Eye Guide
 
 This is the home page for the book "The Pet Eye Guide", How to Spot and Understand Eye Problems in Dogs and Cats – A Practical Guide for Caring Pet Owners. Welcome!
 
