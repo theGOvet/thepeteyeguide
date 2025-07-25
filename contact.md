@@ -5,10 +5,7 @@ permalink: /contact/
 ---
 
 ## Get In Touch
-
-Email: your@email.com  
-Phone: (123) 456-7890
-
+_This section is still being built. Come back soon :)_
 <form netlify>
   <input type="text" name="name" placeholder="Your Name">
   <input type="email" name="email" placeholder="Your Email">
