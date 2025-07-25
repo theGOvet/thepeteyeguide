@@ -13,5 +13,5 @@ This is a simple starter template with:
 
 [Check out my blog](/blog)
 
-Sign for Amazon Kindle https://www.amazon.co.uk/kindle-dbs/hz/signup?tag=kindle-atardeceres-21
+[Sign for Amazon Kindle](https://www.amazon.co.uk/kindle-dbs/hz/signup?tag=kindle-atardeceres-21)
 Note: I earn small commision for new sign-ups. This does not affect your purchase.
