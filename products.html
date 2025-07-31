@@ -25,7 +25,7 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      fetch('produts/products.json')
+      fetch('products/products.json')
         .then(response => response.json())
         .then(data => {
           const products = data.products;
