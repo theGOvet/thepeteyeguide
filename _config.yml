@@ -6,14 +6,12 @@ theme: minima
 
 # Add navigation links
 minima:
-  footer_text: "© 2025 The Pet Eye Guide"
   navigation:
     - title: "Home"
       url: "/"
     - title: "Blog"
-      url: "/blog"
+      url: "/blog/"
     - title: "About"
-      url: "/about"
-    - title: "Extras"
+      url: "/about/"
+    - title: "Products"
       url: "/products.html"
-      
