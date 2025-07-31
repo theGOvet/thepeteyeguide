@@ -3,6 +3,9 @@ description: Everything you need to know about pet eye care
 theme: minima
 url: "https://thepeteyeguide.com" # Update with your domain
 
+exclude:
+  - products/
+  
 # Navigation
 header_pages:
   - index.md
