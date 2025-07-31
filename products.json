@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "Nitecore MT06MD Torch",
+      "subtitle": "A tool to check your dazzle and PLR reflexes. More potent and compact than your ophthalmoscope",
+      "imageUrl": "https://m.media-amazon.com/images/I/517FefN+pTL._AC_SX425_.jpg",
+      "description": "I often find that vets struggle to judge Dazzle and PLRs. These are cornerstones of your neuro-ophthalmology exam, which frequently cannot be determined with most ophthalmoscopes. Why? They are not potent enough.\n\nA pen torch like this can solve that problem for very little money.\n\nAt its lowest setting, it potentially can allow you retinal examination with condensing lens without causing undue discomfort.",
+      "videoLink": "https://youtube.com/shorts/_2NzVEyPGxw?feature=share",
+      "amazonLink": "https://amzn.to/44SpBS8"
+    },
+    {
+      "id": "2",
+      "title": "Duracell Optimum AAA Batteries",
+      "subtitle": "Long-lasting power for pen torches and essential tools",
+      "imageUrl": "https://m.media-amazon.com/images/I/81WmlPl87-L._AC_SX425_.jpg",
+      "description": "For pen torches and other tools, the Optimum range is always my way to go. They last longer and it's less likely I'll run out of battery while on the job.\n\nReliable power when you need it most—ideal for medical devices and emergency equipment.",
+      "amazonLink": "https://amzn.to/4kXnh22"
+    },
+    {
+      "id": "4",
+      "title": "Blukar Head Torch Rechargeable",
+      "subtitle": "Essential for vein finding and intubation in low-light conditions",
+      "imageUrl": "https://m.media-amazon.com/images/I/71lq+nt0f3L._AC_SX679_.jpg",
+      "description": "Not an ophthalmology tool per se, but incredibly useful to find veins or trying to insert an ET tube during induction with low light or whenever a laryngoscope is not at hand.\n\nA hands-free lighting solution that makes procedures easier in dark or confined spaces.",
+      "amazonLink": "https://amzn.to/46XqnzH"
+    },
+    {
+      "id": "5",
+      "title": "BEXCO 20D Double Aspheric Ophthalmic Magnifier Lens",
+      "subtitle": "An affordable alternative for indirect retinal examination",
+      "imageUrl": "https://m.media-amazon.com/images/I/51R+AR9fpxL._SY445_SX342_QL70_ML2_.jpg",
+      "description": "A very economic alternative for indirect retinal examination (in combination with pen torch) for those that can't afford an expensive condensing lens.\n\nThis double aspheric design provides clear, distortion-free viewing for effective fundus examination.",
+      "amazonLink": "https://amzn.to/40xpRo8"
+    },
+    {
+      "id": "6",
+      "title": "Nitecore CU6 Torch",
+      "subtitle": "Colorimetric PLR can help you differenciate SARDS cases. This torch is not specifically designed for this purpose but may be used as such (Advised by ophtho colleague)",
+      "imageUrl": "https://m.media-amazon.com/images/I/61qDe47G8JL._AC_SX425_.jpg",
+      "description": "Potential workaround for colorimetric PLR",
+      "amazonLink": "https://amzn.to/4kCurZn"
+    }
+  ]
+}
