@@ -14,3 +14,6 @@ minima:
       url: "/blog"
     - title: "About"
       url: "/about"
+    - title: "Extras"
+      url: "/products/products.html"
+      
