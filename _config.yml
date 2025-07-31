@@ -15,5 +15,5 @@ minima:
     - title: "About"
       url: "/about"
     - title: "Extras"
-      url: "/products/products.html"
+      url: "/products.html"
       
