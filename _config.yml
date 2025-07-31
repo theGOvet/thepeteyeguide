@@ -4,29 +4,13 @@ description: Everything you need to know about pet eye care
 url: "https://thepeteyeguide.com" 
 theme: minima
 
-# Exclude these from Jekyll processing
-exclude:
-  - products.html       # Your standalone HTML page
-  - products/          # Folder for its private assets (CSS/JS)
-  - node_modules/      # If using any Node tools
-  - Gemfile
-  - Gemfile.lock
-
-# Navigation (Jekyll will process these)
-header_pages:
-  - index.md
-  - blog.md
-  - products.html      # Link to your static HTML file
-  - contact.md
-
-# Minima theme settings
+# Add navigation links
 minima:
-  skin: auto
-
-# Build settings
-markdown: kramdown
-plugins:
-  - jekyll-feed       # For RSS (blog only)
-
-# Optional: Set timezone (for blog posts)
-timezone: Europe/London
+  footer_text: "© 2025 The Pet Eye Guide"
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Blog"
+      url: "/blog"
+    - title: "About"
+      url: "/about"
