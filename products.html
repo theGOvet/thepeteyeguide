@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>My Vet Tools | Fran Gómez</title>
-  <link rel="stylesheet" href="assets/css/styleOfProducts.css" />
+  <link rel="stylesheet" href="products/products.css" />
 </head>
 <body>
 
@@ -25,7 +25,7 @@
 
   <script>
     document.addEventListener('DOMContentLoaded', function() {
-      fetch('products.json')
+      fetch('produts/products.json')
         .then(response => response.json())
         .then(data => {
           const products = data.products;
