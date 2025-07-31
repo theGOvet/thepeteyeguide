@@ -1,7 +1,5 @@
 ---
-layout: default
+layout: plain
 title: Products
+permalink: /products/  # Clean URL
 ---
-
-## Affliate links
-<iframe src="products.html" width="100%" height="500px"></iframe>
