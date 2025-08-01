@@ -15,3 +15,5 @@ minima:
       url: "/about/"
     - title: "Products"
       url: "/products.html"
+  skin: null
+  
