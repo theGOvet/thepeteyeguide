@@ -1,9 +1,9 @@
-/* Reset and base styles */
+/* Reset and base styles   background: #f9f9f9; */
 body {
   font-family: Arial, sans-serif;
   margin: 0;
   padding: 0;
-  background: #f9f9f9;
+  background: linear-gradient(to bottom, #fffcc0, #ffffff);
   color: #333;
 }
 
