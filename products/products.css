@@ -9,6 +9,7 @@ body {
 
 header, footer {
   background: #eee;
+  opacity: 0.6;
   padding: 20px 10px;
   text-align: center;
 }
