@@ -15,5 +15,8 @@ minima:
       url: "/about/"
     - title: "Products"
       url: "/products.html"
-  skin: null
+
+# setting colours
+minima:
+skin: null
   
