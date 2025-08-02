@@ -5,10 +5,20 @@ permalink: /contact/
 ---
 
 ## Get In Touch
-_This section is still being built. Come back soon :)_
-<form netlify>
-  <input type="text" name="name" placeholder="Your Name">
-  <input type="email" name="email" placeholder="Your Email">
-  <textarea name="message" placeholder="Your Message"></textarea>
+
+<!-- Copied from Fromspree (under frang*******t@****) -->
+<form
+  action="https://formspree.io/f/manbdopv"
+  method="POST"
+>
+  <label>
+    Your email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Your message:
+    <textarea name="message"></textarea>
+  </label>
+  <!-- your other form fields go here -->
   <button type="submit">Send</button>
 </form>
