@@ -1,8 +1,7 @@
 # _config.yml
 title: The Pet Eye Guide
 description: Everything you need to know about pet eye care
-author:
-  name: Dr Francisco M. Gómez V. 
+author: Dr Francisco M. Gómez V. 
 url: "https://thepeteyeguide.com" 
 theme: minima
 
