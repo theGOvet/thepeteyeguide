@@ -7,7 +7,6 @@ theme: minima
 
 # Add navigation links
 minima:
-  enable_navigation: true
   navigation:
     - title: "Home"
       url: "/"
