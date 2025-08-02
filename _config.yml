@@ -12,12 +12,12 @@ minima:
       url: "/"
     - title: "Blog"
       url: "/blog/"
-    - title: "About"
-      url: "/about/"
     - title: "Products"
       url: "/products.html"
     - title: "Photo"
       url: "/photo/"
+    - title: "Contact"
+      url: "/contact/"
 
 # setting colours
 minima:
