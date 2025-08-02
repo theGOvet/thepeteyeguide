@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to apply eye meds
-permalink: /eyemeds/
+permalink: /resources/eyemeds/
 ---
 
 # 📸 How to Apply treatment for the pet's eye
