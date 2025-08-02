@@ -5,8 +5,13 @@ author: Dr Francisco M. Gómez V.
 url: "https://thepeteyeguide.com" 
 theme: minima
 
+  
 # Add navigation links
 minima:
+
+header_pages:
+  - index.md
+
   navigation:
     - title: "Home"
       url: "/"
