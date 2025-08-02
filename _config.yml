@@ -1,30 +1,15 @@
 # _config.yml
+
 title: The Pet Eye Guide
 description: Everything you need to know about pet eye care
 author: Dr Francisco M. Gómez V. 
-url: "https://thepeteyeguide.com" 
+url: "https://thepeteyeguide.com"
 theme: minima
 
-  
-# Add navigation links
-minima:
-
+# Only these pages appear in the top navigation bar
 header_pages:
   - index.md
-
-  navigation:
-    - title: "Home"
-      url: "/"
-    - title: "Blog"
-      url: "/blog/"
-    - title: "Products"
-      url: "/products.html"
-    - title: "Resources"
-      url: "/resources/"
-    - title: "Contact"
-      url: "/contact/"
-
-# setting colours
-minima:
-skin: null
-  
+  - blog.md
+  - products.md
+  - resources.md
+  - contact.md
