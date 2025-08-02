@@ -36,7 +36,7 @@ Photos can be extremely helpful, particularly when:
 
 # Example of acceptable photos ✔️
 
-| [![a](assets/photos/no1.jpg)](http://videoblocks.com)  | [![b](assets/photos/no2.jpg)](http://audioblocks.com) | 
+| [![a](assets/photos/no1.jpg)] | [![b](assets/photos/no2.jpg)] | 
 |:---:|:---:|
 | Without Flash | With Flash | 
 
