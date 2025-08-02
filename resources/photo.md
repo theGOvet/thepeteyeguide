@@ -1,7 +1,7 @@
 ---
 layout: page
 title: How to take a photo
-permalink: /resources/photo/
+permalink: /photo/
 ---
 
 # 📸 How to Take a Good Photo for Your Vet  
