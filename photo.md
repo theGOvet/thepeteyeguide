@@ -34,16 +34,24 @@ Photos can be extremely helpful, particularly when:
 6. **Additional Details**  
    - If relevant, include the third eyelid or eyelid edge for a more thorough assessment.
 
+7. **Don't worry if you can't**
+   - Mobile phones are not designed for medical photos. If despite a few attempts, you can't get a good quality photo, do not worry.
+   - It might be better to allow your pet to rest and invest your time in organising your vet visit.
+
 # Example of acceptable photos ✔️
 
-| ![a](assets/photos/Ac1.jpg) | ![b](assets/photos/AcFlash1.jpg) | ![c](assets/photos/AcFlash2.jpg)] 
-| Without Flash | With Flash | With Flash | 
+| ![Acceptable photo without flash](assets/photos/Ac1.jpg) |
+| Without Flash |
+| ![Acceptable photo with flash](assets/photos/AcFlash1.jpg) | 
+| With Flash | 
+| ![Acceptable photo with flash](assets/photos/AcFlash2.jpg) |
+| With Flash |
 
 # Examples of low quality photos ❌
 
-| [![a](assets/photos/no3.jpg)] | [![b](assets/photos/no2.jpg)] | 
+| ![Low quality photo](assets/photos/no3.jpg) | ![Low quality photo](assets/photos/no2.jpg) | 
 | Moving/Too much background | Eye almost closed/blinking | 
-| [![c](assets/photos/no4.jpg)] | [![d](assets/photos/no5.jpg)] | 
+| ![Low quality photo](assets/photos/no4.jpg) | ![Low quality photo](assets/photos/no5.jpg) | 
 | Blurred | Blurred | 
-| [![e](assets/photos/no6.jpg)] |
+| ![Low quality photo](assets/photos/no6.jpg) |
 | Too much background/dark eye |  
