@@ -4,8 +4,8 @@ title: Resources
 permalink: /resources/
 ---
 
-### 📷 [How to Take a Photo of the Eye](/resources/photo-eye/)
+### 📷 [How to Take a Photo of the Eye](/resources/photo/)
 
-### 💧 [How to Apply Eye Drops](/resources/applying-drops/)
+### 💧 [How to Apply Eye Drops](/resources/eyedrops/)
 
 ### 🗓️ [Medication Routine Tracker Sheet](/resources/medication-routine/)
