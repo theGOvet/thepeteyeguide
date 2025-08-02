@@ -10,7 +10,10 @@ permalink: /contact/
 <form
   action="https://formspree.io/f/manbdopv"
   method="POST"
->
+>  <label>
+    Your name:
+    <input type="name" name="name">
+  </label>
   <label>
     Your email:
     <input type="email" name="email">
