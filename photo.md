@@ -42,11 +42,8 @@ Photos can be extremely helpful, particularly when:
 # Examples of low quality photos ❌
 
 | [![a](assets/photos/no3.jpg)] | [![b](assets/photos/no2.jpg)] | 
-|:---:|:---:|
 | Moving/Too much background | Eye almost closed/blinking | 
-| [![a](assets/photos/no4.jpg)] | [![b](assets/photos/no5.jpg)] | 
-|:---:|:---:|
+| [![c](assets/photos/no4.jpg)] | [![d](assets/photos/no5.jpg)] | 
 | Blurred | Blurred | 
-| [![a](assets/photos/no6.jpg)] | [![b](assets/photos/no1.jpg)] | 
-|:---:|:---:|
-| Too much background/dark eye | Eye almost closed/blinking | 
+| [![e](assets/photos/no6.jpg)] |
+| Too much background/dark eye |  
