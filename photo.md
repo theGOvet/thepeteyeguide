@@ -36,8 +36,7 @@ Photos can be extremely helpful, particularly when:
 
 # Example of acceptable photos ✔️
 
-| [![a](assets/photos/Ac1.jpg)] | [![b](assets/photos/AcFlash1.jpg)] | [![c](assets/photos/AcFlash2.jpg)] | 
-|:---:|:---:|:---:|
+| ![a](assets/photos/Ac1.jpg) | ![b](assets/photos/AcFlash1.jpg) | ![c](assets/photos/AcFlash2.jpg)] 
 | Without Flash | With Flash | With Flash | 
 
 # Examples of low quality photos ❌
