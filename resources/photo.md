@@ -40,18 +40,18 @@ Photos can be extremely helpful, particularly when:
 
 # Example of acceptable photos ✔️
 
-| ![Acceptable photo without flash](assets/photos/Ac1.jpg) |
+| ![Acceptable photo without flash](../assets/photos/Ac1.jpg) |
 | Without Flash |
-| ![Acceptable photo with flash](assets/photos/AcFlash1.jpg) | 
+| ![Acceptable photo with flash](../assets/photos/AcFlash1.jpg) | 
 | With Flash | 
-| ![Acceptable photo with flash](assets/photos/AcFlash2.jpg) |
+| ![Acceptable photo with flash](../assets/photos/AcFlash2.jpg) |
 | With Flash |
 
 # Examples of low quality photos ❌
 
-| ![Low quality photo](assets/photos/no3.jpg) | ![Low quality photo](assets/photos/no2.jpg) | 
+| ![Low quality photo](../assets/photos/no3.jpg) | ![Low quality photo](../assets/photos/no2.jpg) | 
 | Moving/Too much background | Eye almost closed/blinking | 
-| ![Low quality photo](assets/photos/no4.jpg) | ![Low quality photo](assets/photos/no5.jpg) | 
+| ![Low quality photo](../assets/photos/no4.jpg) | ![Low quality photo](../assets/photos/no5.jpg) | 
 | Blurred | Blurred | 
-| ![Low quality photo](assets/photos/no6.jpg) |
+| ![Low quality photo](../assets/photos/no6.jpg) |
 | Too much background/dark eye |  
