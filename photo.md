@@ -36,9 +36,18 @@ Photos can be extremely helpful, particularly when:
 
 # Example of acceptable photos ✔️
 
-| [![a](assets/photos/no1.jpg)] | [![b](assets/photos/no2.jpg)] | 
-|:---:|:---:|
-| Without Flash | With Flash | 
+| [![a](assets/photos/Ac1.jpg)] | [![b](assets/photos/AcFlash1.jpg)] | [![c](assets/photos/AcFlash2.jpg)] | 
+|:---:|:---:|:---:|
+| Without Flash | With Flash | With Flash | 
 
 # Examples of low quality photos ❌
-![placeholder](https://picsum.photos/536/354)
+
+| [![a](assets/photos/no3.jpg)] | [![b](assets/photos/no2.jpg)] | 
+|:---:|:---:|
+| Moving/Too much background | Eye almost closed/blinking | 
+| [![a](assets/photos/no4.jpg)] | [![b](assets/photos/no5.jpg)] | 
+|:---:|:---:|
+| Blurred | Blurred | 
+| [![a](assets/photos/no6.jpg)] | [![b](assets/photos/no1.jpg)] | 
+|:---:|:---:|
+| Too much background/dark eye | Eye almost closed/blinking | 
