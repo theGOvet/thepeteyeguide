@@ -1,17 +1,16 @@
-
 {
   "products": [
     {
-    "id": "1",
-    "title": "Nitecore MT06MD Torch",
-    "subtitle": "Ideal for examining the area around your pet’s eyes",
-    "imageUrl": "https://m.media-amazon.com/images/I/517FefN+pTL._AC_SX425_.jpg",
-    "description": "Designed for medical professionals, this torch emits a soft, high-CRI light at its lowest setting—perfect for spotting discharge, swelling, or irritation around your pet’s eyes. ⚠️ Avoid shining directly into the eye to prevent discomfort or injury.",
-    "videoLink": "https://youtube.com/shorts/_2NzVEyPGxw?feature=share",
-    "amazonLink": "https://amzn.to/44SpBS8"
+      "id": "1",
+      "title": "Nitecore MT06MD Torch",
+      "subtitle": "Ideal for examining the area around your pet’s eyes",
+      "imageUrl": "https://m.media-amazon.com/images/I/517FefN+pTL._AC_SX425_.jpg",
+      "description": "Designed for medical professionals, this torch emits a soft, high-CRI light at its lowest setting—perfect for spotting discharge, swelling, or irritation around your pet’s eyes. ⚠️ Avoid shining directly into the eye to prevent discomfort or injury.",
+      "videoLink": "https://youtube.com/shorts/_2NzVEyPGxw?feature=share",
+      "amazonLink": "https://amzn.to/44SpBS8"
     },
     {
-      "id": "Rex Specs",
+      "id": "2",
       "title": "Rex Specs V2 UV Protection",
       "subtitle": "Many eye conditions are UV-sensitive — Rex Specs offer protection to help",
       "imageUrl": "https://m.media-amazon.com/images/I/81gdPswFgDL._AC_SX679_.jpg",
@@ -19,30 +18,28 @@
       "amazonLink": "https://amzn.to/41jbKDa"
     },
     {
-      "id": "Cordless Clippers",
+      "id": "3",
       "title": "Cordless and Waterproof Clippers",
-      "subtitle": "Washable & Cordless--With large capacity lithium-ion battery,can be charged by USB cable anytime. Super-convenient to easily trim long hairs around eyes.",
+      "subtitle": "Washable & cordless clippers for safely trimming hair around the eyes",
       "imageUrl": "https://m.media-amazon.com/images/I/61C4YUUcsBL._AC_SL1500_.jpg",
-      "description": "Low noise rechargable clipper - super-portable and waterproof",
+      "description": "Low-noise rechargeable clipper — super-portable and waterproof. Convenient for trimming long hair around sensitive areas like the eyes.",
       "amazonLink": "https://amzn.to/46Fr9kY"
     },
-        {
-      "id": "2",
+    {
+      "id": "4",
       "title": "Duracell Optimum AAA Batteries",
       "subtitle": "Long-lasting power for pen torches and essential tools",
       "imageUrl": "https://m.media-amazon.com/images/I/81WmlPl87-L._AC_SX425_.jpg",
-      "description": "For pen torches and other tools, the Optimum range is always my way to go. They last longer and it's less likely I'll run out of battery while on the job.\n\nReliable power when you need it most—ideal for medical devices and emergency equipment.",
+      "description": "For pen torches and other tools, the Optimum range is always my way to go. They last longer and it's less likely I'll run out of battery while on the job. Reliable power when you need it most — ideal for medical devices and emergency equipment.",
       "amazonLink": "https://amzn.to/4kXnh22"
     },
     {
-      "id": "2",
+      "id": "5",
       "title": "Remend Corneal Repair Gel",
       "subtitle": "Emergency support for dry, irritated eyes — not a vet substitute",
       "imageUrl": "https://m.media-amazon.com/images/I/61WBtB7q1WL._AC_SX425_.jpg",
       "description": "A veterinary-grade gel containing hyaluronic acid to help soothe and support the cornea in dry or irritated eyes. Safe to use when no immediate vet access is available — for example, when the eye looks very dry. ⚠️ This is not a replacement for professional veterinary diagnosis or treatment.",
       "amazonLink": "https://amzn.to/4fk3LM5"
-}
-
+    }
   ]
 }
-
