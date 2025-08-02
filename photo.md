@@ -32,6 +32,13 @@ Photos can be extremely helpful, particularly when:
    - Photograph the other eye as well—sometimes both eyes are affected, even if only one shows obvious symptoms.  
 
 6. **Additional Details**  
-   - If relevant, include the third eyelid or eyelid edge for a more thorough assessment.  
+   - If relevant, include the third eyelid or eyelid edge for a more thorough assessment.
 
+# Example of acceptable photos ✔️
+
+| [![a](https://d1ow200m9i3wyh.cloudfront.net/img/assets/videoblocks/images/logo.png)](http://videoblocks.com)  | [![b](https://dtyn3c8zjrx01.cloudfront.net/img/assets/audioblocks/images/logo.png)](http://audioblocks.com) | 
+|:---:|:---:|
+| Without Flash | With Flash | 
+
+# Examples of low quality photos ❌
 ![placeholder](https://picsum.photos/536/354)
