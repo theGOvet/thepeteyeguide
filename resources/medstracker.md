@@ -8,11 +8,10 @@ Keeping track of your pet’s medications—especially eye drops, tablets, or tr
 
 You'll need a PDF viewer installed in your device, a printer, and a pen to write on the empty tracker. Stick it somewhere visible—like your fridge door—with simple fridge magnets 🧲(affiliate link)."
 
-# How to use the Meds Tracker
-
-📄 [Download an empty tracker sheet (PDF)](link-to-empty-tracker.pdf)
+📄 [Download an empty tracker sheet here(PDF)](link-to-empty-tracker.pdf)
 
 ---
+# How to use the Meds Tracker
 
 👉 **1st** Download an empty tracker and print one for each treatment date.
 
