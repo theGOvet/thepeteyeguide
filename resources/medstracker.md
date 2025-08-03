@@ -8,7 +8,7 @@ Keeping track of your pet’s medications—especially eye drops, tablets, or tr
 
 You'll need a PDF viewer installed in your device, a printer, and a pen to write on the empty tracker. Stick it somewhere visible—like your fridge door—with simple fridge magnets 🧲(affiliate link)."
 
-📄 [Download an empty tracker sheet here(PDF)](link-to-empty-tracker.pdf)
+📄 [Download an empty tracker sheet here(PDF)](../assets/medstracker-files/medstracker.pdf)
 
 ---
 # How to use the Meds Tracker
@@ -19,7 +19,7 @@ You'll need a PDF viewer installed in your device, a printer, and a pen to write
 
 👉 **3rd** Add the medications prescribed by your vet to the first column.  
   **Example sheet**: Here, three different medications advised by the vet have been added (eye drop 1, eye drop 2, and tablet).  
-🖼️ [View Example Sheet](link-to-example-sheet.png)
+🖼️ [View Example Sheet](../assets/medstracker-files/medstracker-example.png)
 
 👉 **4th** Add where the medication goes under the column labelled **“Route”**.  
   **Example sheet**: We have “Right eye”, “Both eyes”, and “Mouth”.
