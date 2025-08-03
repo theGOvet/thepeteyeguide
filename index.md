@@ -5,6 +5,8 @@ title: The Pet Eye Guide
 
 This is the home page for the book "The Pet Eye Guide", How to Spot and Understand Eye Problems in Dogs and Cats – A Practical Guide for Caring Pet Owners. Welcome!
 
+###The Pet Eye Guide is expected to be published in 2025. Come back soon! ###
+
 [Check out my blog](/blog)
 
 [Sign up for Amazon Kindle](https://www.amazon.co.uk/kindle-dbs/hz/signup?tag=kindle-atardeceres-21)
