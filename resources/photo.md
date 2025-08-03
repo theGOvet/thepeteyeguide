@@ -3,9 +3,6 @@ layout: page
 title: How to take a photo
 permalink: /photo/
 ---
-
-# 📸 How to Take a Good Photo for Your Vet  
-
 Photos can be extremely helpful, particularly when:  
 - Symptoms are intermittent  
 - Your vet isn’t immediately available  
