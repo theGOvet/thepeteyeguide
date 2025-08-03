@@ -1,6 +1,14 @@
 {
   "products": [
         {
+      "id": "Rex Specs",
+      "title": "Rex Specs V2 UV Protection",
+      "subtitle": "Many eye conditions are UV-sensitive — Rex Specs offer protection to help",
+      "imageUrl": "https://m.media-amazon.com/images/I/81gdPswFgDL._AC_SX679_.jpg",
+      "description": "Protect your pup’s eyes with these high-performance goggles, designed for small breeds. Features include dual UV400-rated lenses (clear and smoke) for full UVA/UVB protection, impact-resistant polycarbonate with ANSI-certified durability, a wraparound visor with foam gasket and breath vents, and adjustable straps that stay in place during activity. Ideal for hiking, biking, beach days, windy rides, or woodland trails.",
+      "amazonLink": "https://amzn.to/41jbKDa"
+    },
+        {
       "id": "Eye Wash Pods",
       "title": "Safety First Aid Group Hypaclens Sterile Saline Eyewash Pods - 20 ml (Pack of 10)",
       "subtitle": "Sterile medical grade eyewash pods",
@@ -9,6 +17,15 @@
       "amazonLink": "https://amzn.to/3IZnDrE"
     },
     {
+  "id": "chibuy grooming scissors",
+  "title": "Chibuy Pet Grooming Scissors for Dogs and Cats – Safety Round Blunt Tips",
+  "subtitle": "Professional stainless steel grooming scissors with safety tips for delicate areas",
+  "imageUrl": "https://m.media-amazon.com/images/I/71aIU2hZPeL._AC_SX679_.jpg",
+  "description": "Chibuy Pet Grooming Scissors are specially designed for safely trimming around your pet’s eyes, ears, paws, and face. This stainless steel grooming kit includes two pairs of precision scissors (6371 and 6375), each featuring round blunt tips to prevent accidental pokes or cuts—perfect for dogs, cats, and other small animals. The sharp, rust-resistant blades cut smoothly through fine facial hair, while the ergonomic non-slip handles offer comfort and control. Ideal for home grooming or professional use, these scissors help remove hair that may irritate or obstruct your pet’s eyes. A must-have for safe and stress-free grooming.",
+  "amazonLink": "https://amzn.to/3H9nul2"
+  },
+
+    {
       "id": "1",
       "title": "Nitecore MT06MD Torch",
       "subtitle": "Ideal for examining the area around your pet’s eyes",
@@ -16,14 +33,6 @@
       "description": "Designed for medical professionals, this torch emits a soft, high-CRI light at its lowest setting—perfect for spotting discharge, swelling, or irritation around your pet’s eyes. ⚠️ Avoid shining directly into the eye to prevent discomfort or injury.",
       "videoLink": "https://youtube.com/shorts/_2NzVEyPGxw?feature=share",
       "amazonLink": "https://amzn.to/44SpBS8"
-    },
-    {
-      "id": "2",
-      "title": "Rex Specs V2 UV Protection",
-      "subtitle": "Many eye conditions are UV-sensitive — Rex Specs offer protection to help",
-      "imageUrl": "https://m.media-amazon.com/images/I/81gdPswFgDL._AC_SX679_.jpg",
-      "description": "Protect your pup’s eyes with these high-performance goggles, designed for small breeds. Features include dual UV400-rated lenses (clear and smoke) for full UVA/UVB protection, impact-resistant polycarbonate with ANSI-certified durability, a wraparound visor with foam gasket and breath vents, and adjustable straps that stay in place during activity. Ideal for hiking, biking, beach days, windy rides, or woodland trails.",
-      "amazonLink": "https://amzn.to/41jbKDa"
     },
     {
       "id": "3",
