@@ -3,7 +3,7 @@ layout: page
 permalink: /resources/eyemeds/
 ---
 
-# 📸 How to Apply treatment for the pet's eye
+# How to Apply treatment for the pet's eye
 
-This is how you do it  
+This section is being built. Come back soon. 
 
