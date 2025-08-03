@@ -28,7 +28,7 @@ You'll need a PDF viewer installed in your device, a printer, and a pen to write
   **Example sheet**: For “eye drop 1”, we imagined that the label says *‘three times daily’* so three circles have been added, 8 hours apart.  
   💡 *Tip: Add a recurring alarm to your mobile phone to remind you!*
 
-👉 **6th** Colour in or tick (✅) the circle after the medication has been administered to your pet.  
+👉 **6th** Colour in or tick (🔘) the circle after the medication has been administered to your pet.  
   📌 In busy households, you can also **add your initials** inside or next to the circle after giving medication—just like in hospitals when multiple people share treatment duties.  
   **Example sheet**: Medication has been marked as given until after noon.
 
