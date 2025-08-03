@@ -8,6 +8,8 @@ Keeping track of your pet’s medications—especially eye drops, tablets, or tr
 
 You'll need a PDF viewer installed in your device, a printer, and a pen to write on the empty tracker. Stick it somewhere visible—like your fridge door—with simple [fridge magnets 🧲](https://amzn.to/4oanstE)\*.
 
+---
+
 📄 [Download an empty tracker sheet here (PDF)](../assets/medstracker-files/medstracker.pdf)
 
 ---
@@ -39,4 +41,5 @@ You'll need a PDF viewer installed in your device, a printer, and a pen to write
 📌 The tracker has a 3-hour overlap each day (6am, 7am, 8am) to give you flexibility when transitioning to the next sheet.  
 ⚠️ *But remember: do not administer the medication twice!*
 
+---
 \* *All links may be affiliated links. A commission may be earned without additional costs to your purchase*
