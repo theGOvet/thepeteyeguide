@@ -10,6 +10,6 @@ theme: minima
 header_pages:
   - index.md
   - blog.md
-  - products.md
+  - products.html
   - resources.md
   - contact.md
