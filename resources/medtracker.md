@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Track you pet eye treatment
-permalink: /resources/medtracker/
+permalink: /medtracker/
 ---
 
 # 📸 Calendar tracker 
