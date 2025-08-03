@@ -1,7 +1,7 @@
 {
   "products": [
         {
-      "id": "Rex Specs",
+      "id": "RexSpecs",
       "title": "Rex Specs V2 UV Protection",
       "subtitle": "Many eye conditions are UV-sensitive — Rex Specs offer protection to help",
       "imageUrl": "https://m.media-amazon.com/images/I/81gdPswFgDL._AC_SX679_.jpg",
@@ -9,7 +9,7 @@
       "amazonLink": "https://amzn.to/41jbKDa"
     },
         {
-      "id": "Eye Wash Pods",
+      "id": "EyePods",
       "title": "Safety First Aid Group Hypaclens Sterile Saline Eyewash Pods - 20 ml (Pack of 10)",
       "subtitle": "Sterile medical grade eyewash pods",
       "imageUrl": "https://m.media-amazon.com/images/I/51oK5JLrvyL._AC_SX679_PIbundle-10,TopRight,0,0_SH20_.jpg",
@@ -17,7 +17,7 @@
       "amazonLink": "https://amzn.to/3IZnDrE"
     },
     {
-  "id": "chibuy grooming scissors",
+  "id": "Grooming-Scissors",
   "title": "Chibuy Pet Grooming Scissors for Dogs and Cats – Safety Round Blunt Tips",
   "subtitle": "Professional stainless steel grooming scissors with safety tips for delicate areas",
   "imageUrl": "https://m.media-amazon.com/images/I/71aIU2hZPeL._AC_SX679_.jpg",
@@ -26,7 +26,7 @@
   },
 
     {
-      "id": "1",
+      "id": "Nitecore-torch",
       "title": "Nitecore MT06MD Torch",
       "subtitle": "Ideal for examining the area around your pet’s eyes",
       "imageUrl": "https://m.media-amazon.com/images/I/517FefN+pTL._AC_SX425_.jpg",
@@ -35,7 +35,7 @@
       "amazonLink": "https://amzn.to/44SpBS8"
     },
     {
-      "id": "3",
+      "id": "Clippers",
       "title": "Cordless and Waterproof Clippers",
       "subtitle": "Washable & cordless clippers for safely trimming hair around the eyes",
       "imageUrl": "https://m.media-amazon.com/images/I/61C4YUUcsBL._AC_SL1500_.jpg",
@@ -43,7 +43,7 @@
       "amazonLink": "https://amzn.to/46Fr9kY"
     },
     {
-      "id": "4",
+      "id": "Duracell-batteries",
       "title": "Duracell Optimum AAA Batteries",
       "subtitle": "Long-lasting power for pen torches and essential tools",
       "imageUrl": "https://m.media-amazon.com/images/I/81WmlPl87-L._AC_SX425_.jpg",
@@ -51,7 +51,7 @@
       "amazonLink": "https://amzn.to/4kXnh22"
     },
     {
-      "id": "5",
+      "id": "Remend",
       "title": "Remend Corneal Repair Gel",
       "subtitle": "Emergency support for dry, irritated eyes — not a vet substitute",
       "imageUrl": "https://m.media-amazon.com/images/I/41GX6fseEbL._AC_SX679_.jpg",
