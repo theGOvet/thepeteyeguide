@@ -6,9 +6,9 @@ permalink: /medstracker/
 
 Keeping track of your pet’s medications—especially eye drops, tablets, or treatments given multiple times a day—can be stressful, particularly when more than one person is helping with their care. The **Meds Tracker** is a simple printable tool designed to help you stay organised and make sure no doses are missed or repeated.
 
-You'll need a PDF viewer installed in your device, a printer, and a pen to write on the empty tracker. Stick it somewhere visible—like your fridge door—with simple fridge magnets 🧲(affiliate link)."
+You'll need a PDF viewer installed in your device, a printer, and a pen to write on the empty tracker. Stick it somewhere visible—like your fridge door—with simple [fridge magnets 🧲](https://amzn.to/4oanstE)\*.
 
-📄 [Download an empty tracker sheet here(PDF)](../assets/medstracker-files/medstracker.pdf)
+📄 [Download an empty tracker sheet here (PDF)](../assets/medstracker-files/medstracker.pdf)
 
 ---
 # How to use the Meds Tracker
@@ -38,3 +38,5 @@ You'll need a PDF viewer installed in your device, a printer, and a pen to write
 
 📌 The tracker has a 3-hour overlap each day (6am, 7am, 8am) to give you flexibility when transitioning to the next sheet.  
 ⚠️ *But remember: do not administer the medication twice!*
+
+\* *All links may be affiliated links. A commission may be earned without additional costs to your purchase*
