@@ -3,13 +3,14 @@ layout: page
 title: Track you pet eye treatment
 permalink: /medstracker/
 ---
-# How to use the Meds Tracker
 
 Keeping track of your pet’s medications—especially eye drops, tablets, or treatments given multiple times a day—can be stressful, particularly when more than one person is helping with their care. The **Meds Tracker** is a simple printable tool designed to help you stay organised and make sure no doses are missed or repeated.
 
-Stick it somewhere visible—like your fridge door—with simple fridge magnets 🧲(affiliate link)."
+You'll need a PDF viewer installed in your device, a printer, and a pen to write on the empty tracker. Stick it somewhere visible—like your fridge door—with simple fridge magnets 🧲(affiliate link)."
 
-📄 [Download the empty tracker (PDF)](link-to-empty-tracker.pdf)
+# How to use the Meds Tracker
+
+📄 [Download an empty tracker sheet (PDF)](link-to-empty-tracker.pdf)
 
 ---
 
