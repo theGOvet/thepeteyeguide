@@ -10,7 +10,7 @@ You'll need a PDF viewer installed in your device, a printer, and a pen to write
 
 ---
 
-📄 [Download an empty tracker sheet here (PDF)](../assets/medstracker-files/medstracker.pdf)
+📄 [Download an empty tracker sheet here (PDF)](../assets/medstracker-files/medstracker.pdf){:download}
 
 ---
 # How to use the Meds Tracker
