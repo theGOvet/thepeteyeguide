@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /resources/eyemeds/
+permalink: /eyemeds/
 ---
 
 # How to Apply treatment for the pet's eye
