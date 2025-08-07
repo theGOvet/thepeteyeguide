@@ -2,7 +2,7 @@
 layout: page
 permalink: /eyemeds/
 ---
-Applying eye drops can be challenging for many pet owners, especially when dealing with nervous or sensitive animals. To help make this process as stress-free as possible, I’ve asked **Vikki Foster RVN**—an experienced *Registered Veterinary Nurse* and founder of **FearLess Fur Care**—to share her expert, fear-free approach to administering eye medications.
+Applying eye drops or ointments can be challenging for many pet owners, especially when dealing with nervous or sensitive animals. To help make this process as stress-free as possible, I’ve asked **Vikki Foster RVN**—an experienced *Registered Veterinary Nurse* and founder of **FearLess Fur Care**—to share her expert, fear-free approach to administering eye medications.
 
 ## Administering Eye Drops to Your Pet: A Step-by-Step Fear Free Approach  
 **By Vikki Foster RVN – FearLess Fur Care**  
@@ -47,7 +47,7 @@ If you're interested in getting in touch with Vikki, you can do so by [following
 - Use your other hand to **gently lift the upper eyelid**.  
 - Place the drop **into the upper eyelid pocket**, not directly onto the eye.  
 - Let the drop disperse naturally as your pet **blinks**.  
-- For **ointment**, apply it into the **lower lid** and let your pet blink.  
+- For **ointments**, apply it into the **lower lid** and let your pet blink.  
 - Administer the prescribed number of drops **quickly and smoothly**.
 
 ---
