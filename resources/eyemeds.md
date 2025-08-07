@@ -2,6 +2,7 @@
 layout: page
 permalink: /eyemeds/
 ---
+Applying eye drops can be challenging for many pet owners, especially when dealing with nervous or sensitive animals. To help make this process as stress-free as possible, we’ve asked **Vikki Foster RVN**—an experienced *Registered Veterinary Nurse* and founder of **FearLess Fur Care**—to share her expert, fear-free approach to administering eye medications.
 
 ## Administering Eye Drops to Your Pet: A Step-by-Step Fear Free Approach  
 **By Vikki Foster RVN – FearLess Fur Care**  
