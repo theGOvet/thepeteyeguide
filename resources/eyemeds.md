@@ -13,7 +13,7 @@ Applying eye drops can be challenging for many pet owners, especially when deali
        style="width: 150px; height: 150px; object-fit: cover; border-radius: 50%; box-shadow: 0 2px 6px rgba(0,0,0,0.2);">
 </div>
 
-[Follow FearLess Fur Care on Facebook](https://www.facebook.com/FearLessFurCaregroup)
+If you're interested in getting in touch with Vikki, you can do so by [following FearLess Fur Care on Facebook](https://www.facebook.com/FearLessFurCaregroup)
 
 ---
 
