@@ -7,7 +7,7 @@ permalink: /eyemeds/
 **By Vikki Foster RVN – FearLess Fur Care**  
 *Supporting dogs, cats, rabbits, guinea pigs, and exotic pets with gentle, cooperative care.*
 
-![FearLess Fur Care Logo](../assets/logos/fearLess_fur_care.jpg)  
+![FearLess Fur Care Logo](../assets/logos/fearLess-fur-care.jpg)  
 [Follow FearLess Fur Care on Facebook](https://www.facebook.com/FearLessFurCaregroup)
 
 ---
