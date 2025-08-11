@@ -3,6 +3,10 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
+## About the author
+
+Francisco Gómez Villasclaras is a bilingual veterinary ophthalmologist with experience in general practice, emergency medicine, and referral eye care.
+
 
 ## Get In Touch
 
