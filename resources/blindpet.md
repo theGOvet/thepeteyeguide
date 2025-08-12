@@ -3,6 +3,7 @@ layout: page
 title: Helping a Blind Pet at Home
 permalink: /blindpet
 description: Practical tips to help your blind dog or cat feel safe and confident at home.
+categories: [resources, pet-care]
 ---
 
 # 🕶️ Helping a Blind Pet at Home
