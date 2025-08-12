@@ -10,4 +10,4 @@ permalink: /resources/
 
 ### 🗓️ [Medication Routine Tracker Sheet](/resources/medstracker.md/)
 
-### 🕶️  [Helping your Blind Pet at Home ](/resources/blindpet.md/)
+### 🕶️  [Helping a Blind Pet at Home ](/resources/blindpet.md/)
