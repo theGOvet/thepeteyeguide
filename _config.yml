@@ -8,7 +8,6 @@ theme: minima
 
 # Only these pages appear in the top navigation bar
 header_pages:
-  - index.md
   - blog.md
   - products.html
   - resources.md
