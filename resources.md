@@ -9,3 +9,5 @@ permalink: /resources/
 ### 💧 [How to Apply Eye Drops](/resources/eyemeds.md)
 
 ### 🗓️ [Medication Routine Tracker Sheet](/resources/medstracker.md/)
+
+### 🕶️  [Helping your Blind Pet at Home ](/resources/blindpet.md/)
