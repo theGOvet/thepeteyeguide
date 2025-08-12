@@ -6,8 +6,6 @@ description: Practical tips to help your blind dog or cat feel safe and confiden
 categories: [resources, pet-care]
 ---
 
-# 🕶️ Helping a Blind Pet at Home
-
 Blindness in dogs and cats can be sudden or progressive, and it often feels more daunting to the owner than to the pet.  
 The good news is that most pets adapt incredibly well to life without vision, using their other senses — especially hearing and smell — to navigate the world confidently.
 
