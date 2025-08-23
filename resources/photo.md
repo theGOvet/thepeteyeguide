@@ -12,7 +12,10 @@ Photos can be extremely helpful, particularly when:
 
 1. **Lighting**  
    - **First, take a photo without flash** using natural light. (Your pet may not tolerate a second attempt if startled by the initial flash.)  
-   - **Then, take a second photo** in a dimly lit room (not completely dark) with the flash enabled for better clarity.  
+   - **Then, take a second photo** in a dimly lit room (not completely dark):  
+     • Either with the flash enabled for better clarity  
+     • Or by using a small torch/phone light held at an angle to the eye. This often reduces glare and highlights eye details more clearly.  
+   - ⚠️ *Safety note:* Don’t shine a light directly into your pet’s eye for long — just a brief moment is enough to capture the photo.  
 
 2. **Assistance**  
    - Have someone help hold your pet’s head steady while you take the photo—doing this alone can be challenging.  
