@@ -1,5 +1,13 @@
 {
   "products": [
+    {
+  "id": "elizabethan collar",
+  "title": "MDC Smart Elizabethan Collar (Size 3 Large, 29-38 cm Neck)",
+  "subtitle": "Protective cone collar to prevent pets from scratching or aggravating wounds",
+  "imageUrl": "https://m.media-amazon.com/images/I/41xPrF2vViL._AC_SX425_.jpg",
+  "description": "The MDC Smart Elizabethan Collar is a safe and humane way to stop dogs and cats from interfering with wounds, injuries, or sensitive areas such as the eyes. Made from tough yet lightweight translucent plastic for better visibility, this protective cone is padded on the inside and outside edges for comfort. Easy to fit and adjust with a secure hook-and-loop closure, it helps prevent pets from scratching, rubbing, or biting affected areas—ideal after veterinary eye treatments or surgery. Available in multiple sizes for cats and dogs, the Smart Collar is an essential addition to any pet first aid kit.",
+  "amazonLink": "https://amzn.to/4oOJ3bv"
+},
         {
       "id": "RexSpecs",
       "title": "Rex Specs V2 UV Protection",
