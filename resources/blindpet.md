@@ -68,7 +68,7 @@ Some owners create a simple “halo” device at home using **long, heavy-duty c
   - Supervise at first to prevent snagging on furniture or bushes
 
 - **Alternatives**:  
-  Commercial versions like [**Muffin’s Halo**] (https://pawprospershop.com/?referral-code=102671090030) are purpose-built, adjustable, and more comfortable for long-term wear.
+  Commercial versions like [**Muffin’s Halo**](https://pawprospershop.com/?referral-code=102671090030) are purpose-built, adjustable, and more comfortable for long-term wear.
   *Clicking the above takes you to an affiliate link where you can find the Halo product as well as many other products from Paw Prosper*
 
 ---
