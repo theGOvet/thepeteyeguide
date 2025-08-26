@@ -69,7 +69,7 @@ Some owners create a simple “halo” device at home using **long, heavy-duty c
 
 - **Alternatives**:  
   Commercial versions like [**Muffin’s Halo**](https://pawprospershop.com/?referral-code=102671090030) are purpose-built, adjustable, and more comfortable for long-term wear.
-  *Clicking the above takes you to an affiliate link where you can find the Halo product as well as many other products from Paw Prosper*
+  *Click or Tap the affiliate link to find the Muffin's Halo as well as many other products from Paw Prosper*
 
 ---
 
