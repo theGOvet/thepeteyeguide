@@ -42,6 +42,20 @@ If you're interested in getting in touch with Vikki, you can do so by [following
 
 ---
 
+## 🎥 Watch the Process in Action  
+
+Here’s a short video demonstration by **Vikki Foster RVN**, showing a calm and practical way to give your pet eye medication:  
+
+<iframe width="560" height="315" 
+src="https://www.youtube.com/embed/OyltZEZaAEs" 
+title="How to give eye drops to pets - with Vikki Foster RVN" 
+frameborder="0" 
+allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+allowfullscreen>
+</iframe>
+
+---
+
 ### 👁️ Step 4: Administer the Eye Drops  
 - Hold the bottle in your **dominant hand**.  
 - Use your other hand to **gently lift the upper eyelid**.  
